@@ -1,0 +1,6 @@
+product,avg_weekly_sales,std_weekly_sales,avg_stock,min_stock,max_stock,safety_stock,reorder_point,eoq_approx,status
+Cooking Oil,302.5,78.6,229.2,80,397,183,788,1210,🔴 REORDER NOW
+Detergent 1kg,330.0,87.4,233.0,80,395,204,864,1320,🔴 REORDER NOW
+Rice 5kg,451.4,112.4,241.9,80,396,262,1165,1806,🔴 REORDER NOW
+Shampoo 200ml,204.4,55.6,222.3,81,398,130,539,818,🔴 REORDER NOW
+Sugar 1kg,390.0,103.6,245.7,80,399,242,1022,1560,🔴 REORDER NOW
